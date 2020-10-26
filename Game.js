@@ -115,6 +115,7 @@ export default class Game{
                     this.stateCur = GameState.WELCOMING;
                 }
         }
+        
         return([sReply]);
     }
 }
